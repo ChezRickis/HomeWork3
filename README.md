@@ -11,7 +11,7 @@
 - Элемент №3
   
 ### Картинка
-[Белый волк](https://mobimg.b-cdn.net/v3/fetch/dd/dd1e9dd0f6f574a32280a8e21fe7c4c6.jpeg)
+![Белый волк](https://mobimg.b-cdn.net/v3/fetch/dd/dd1e9dd0f6f574a32280a8e21fe7c4c6.jpeg)
 
 ### Ссылка
 [google.com](https://www.google.ru)
